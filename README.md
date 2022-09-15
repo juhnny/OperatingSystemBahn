@@ -2,6 +2,8 @@
 
 이화여대 반효경 교수님 강의, 2017 @KOCW
 
+http://www.kocw.net/home/cview.do?cid=4b9cd4c7178db077
+
 # 강의내용
 
 1. 운영체제 개요
